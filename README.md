@@ -28,7 +28,7 @@ $ make test
 
 ## Frontend Context
 
-Frontend is written using next.js and tailwind css, it has numbers context to share numbers state and interface between component.
+Frontend is written using next.js and tailwind css, it has numbers context to share numbers state and interface between components.
 
 ## Gen AI and logo
 
