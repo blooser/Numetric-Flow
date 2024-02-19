@@ -46,6 +46,12 @@ This is sample image how the app looks like on the frontside side after response
 
 Instruction how to run the app using `Manual` or `Docker`
 
+Before, invoke python script for numbers generating.
+
+```bash
+$ python generate_numbers.py
+```
+
 ## Manual
 
 To run backend, invoke
