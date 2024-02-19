@@ -32,11 +32,13 @@ Frontend is written using next.js and tailwind css, it has numbers context to sh
 
 ## Gen AI and logo
 
-I generated a logo for the application, because I believe AI is perfect for accelerating our work as developers! ;D
+I generated a logo for the application, because I believe AI is perfect for accelerating our work as developers! ;]
 
 <img src="https://i.postimg.cc/SQgm9j97/logo.webp" width="254" height="254" /> 
 
 ## Preview
+
+This is sample image how the app looks like on the frontside side after response from backend
 
 ![img](https://i.postimg.cc/YCyXNzSz/Screenshot-2024-02-19-at-10-54-26-Numetric-Flow.png)
 

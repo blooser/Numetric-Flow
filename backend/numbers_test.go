@@ -4,6 +4,8 @@ import (
 	"testing"
 )
 
+// INFO: I know, numbers are global, it is not the best idea, in production it will not have any place! ;]
+
 func TestGetNumbersIndexReturnVaidIndex(t *testing.T) {
 	numbers = []int{10, 20, 30, 100, 110, 120, 140}
 

@@ -27,7 +27,7 @@ func getIndex(c *gin.Context) {
 		return
 	}
 
-	index := getNumberIndex(number, 30)
+	index := getNumberIndex(number, 30) // tolerance = 30%
 
 	c.JSON(http.StatusOK, gin.H{
 		"index": index,
