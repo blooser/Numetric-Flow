@@ -38,7 +38,7 @@ I generated a logo for the application, because I believe AI is perfect for acce
 
 ## Preview
 
-This is sample image how the app looks like on the frontside side after response from backend
+This is sample image how the app looks like on the frontend 
 
 ![img](https://i.postimg.cc/YCyXNzSz/Screenshot-2024-02-19-at-10-54-26-Numetric-Flow.png)
 
