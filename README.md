@@ -34,7 +34,7 @@ Frontend is written using next.js and tailwind css, it has numbers context to sh
 
 I generated a logo for the application, because I believe AI is perfect for accelerating our work as developers! ;D
 
-![logo](https://i.postimg.cc/SQgm9j97/logo.webp =254x254)
+<img src="https://i.postimg.cc/SQgm9j97/logo.webp" width="254" height="254" /> 
 
 ## Preview
 
