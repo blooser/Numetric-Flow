@@ -16,7 +16,7 @@ Numbers are loaded into slice in golang during backend startup.
 
 Searching mechanism is implemented using BinarySearch with tolerance (%) parameter - it will return found number or closest number with tolerance.
 
-# Manual test
+# Testing
 
 I crafted `Makefile` to automate test in golang, to run testing unvoke
 
