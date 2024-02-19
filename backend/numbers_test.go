@@ -22,7 +22,7 @@ func TestGetNumbersIndexReturnClosestIndex(t *testing.T) {
 	var index = getNumberIndex(102, 50)
 
 	if index != 3 {
-		t.Errorf("getNumberIndex(110, 50) = %d; want 3", index)
+		t.Errorf("getNumberIndex(102, 50) = %d; want 3", index)
 	}
 }
 
@@ -44,7 +44,7 @@ func TestGetNumbersIndexReturnMinusOneIfNoNumberExists(t *testing.T) {
 	var index = getNumberIndex(400, 30)
 
 	if index != -1 {
-		t.Errorf("getNumberIndex(180, 10) = %d; want -1", index)
+		t.Errorf("getNumberIndex(400, 30) = %d; want -1", index)
 	}
 }
 
