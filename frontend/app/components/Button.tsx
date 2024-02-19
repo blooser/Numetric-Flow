@@ -16,7 +16,7 @@ const Button: React.FC = ({onClick}) => {
             disabled={number === ''}
         >
             <FontAwesomeIcon icon={faCalculator} className="mr-2" />
-            <span>Get Me Index!</span>
+            <span>Index</span>
         </button>
     );
 };
