@@ -12,9 +12,29 @@ I created the application using technologies:
 
 I created `generate_numbers.py` script for generating numbers in `numbers.txt` - the script can be configured.
 
-Numbers are loaded indo slice in golang during backend startup.
+Numbers are loaded into slice in golang during backend startup.
 
 Searching mechanism is implemented using BinarySearch with tolerance (%) parameter - it will return found number or closest number with tolerance.
+
+# Manual test
+
+I crafted `Makefile` to automate test in golang, to run testing unvoke
+
+```bash
+$ make test
+```
+
+![make](https://i.postimg.cc/wvBLwSbt/make.png)
+
+## Frontend Context
+
+Frontend is written using next.js and tailwind css, it has numbers context to share numbers state and interface between component.
+
+## Gen AI and logo
+
+I generated a logo for the application, because I believe AI is perfect for accelerating our work as developers! ;D
+
+![logo](https://i.postimg.cc/SQgm9j97/logo.webp)
 
 ## Preview
 
