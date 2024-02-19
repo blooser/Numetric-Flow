@@ -1,6 +1,6 @@
 # Numetric Flow
 
-Hello GoSolve! This is my solution for your technical interview, hope you will enjoy it! :)
+Hello GoSolve! This is my solution, hope you will enjoy it! :)
 
 I created the application using technologies:
 - Go (Gin)
